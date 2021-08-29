@@ -1,2 +1,2 @@
 # Recommendation-
-How Recommendation System build.
+How to build Recommendation system
